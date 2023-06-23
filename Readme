@@ -1,1 +1,7 @@
+Classification on Firewall data
 
+Model : XGBoost Classification
+
+Step1. EDA & Cleansing Data
+Step2. Model & Evaluation
+Step3. ROC curve
